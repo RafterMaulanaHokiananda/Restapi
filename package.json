@@ -1,0 +1,23 @@
+{
+  "name": "studynode",
+  "version": "1.0.0",
+  "description": "restapi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RafterMaulanaHokiananda/Restapi.git"
+  },
+  "keywords": [
+    "restapi",
+    "nodejs"
+  ],
+  "author": "Rafter Maulana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RafterMaulanaHokiananda/Restapi/issues"
+  },
+  "homepage": "https://github.com/RafterMaulanaHokiananda/Restapi#readme"
+}
